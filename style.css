@@ -1,0 +1,48 @@
+body{
+    
+    font-family: roboto;
+}
+.post{
+    border: solid black;
+    margin: auto;
+    width: 500px;
+    height: 550px;
+}
+
+.post-header{
+    display: flex;
+    height: 100px;
+}
+.fa-brands{
+    font-size: 50px;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.usuario{
+    font-size: 12px;
+}
+.icono-opciones{
+    font-size: 40px;
+    padding-left: 340px;
+    padding-top: 10px;
+}
+
+.post-img{
+    display: flex;
+}
+img{
+    width: 500px;
+    height: 300px;
+}
+.iconos{
+    font-size: 30px;
+    margin-left: 10px;
+    padding-top: 10px;
+}
+.fa-bookmark{
+    padding-left: 340px;
+}
+p{
+    margin-left: 10px;
+}
